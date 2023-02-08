@@ -1,7 +1,8 @@
 # **Findlaw Scraping**  
 
-Currently have scraper which takes as input the county, state, and sector.  
-(This is done)  
+Currently have scraper that returns lawyers on platform given the county, state, and sector.  
+Also almost done on a scraper that gets all different types of legal issues. 
+
 
 Working on:  
 County scraper when given state name  
