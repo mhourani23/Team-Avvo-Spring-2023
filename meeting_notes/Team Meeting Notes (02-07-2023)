@@ -1,0 +1,27 @@
+- SOW Suggestions:
+    - Move the client background section above the problem statement.
+    - 3.1 delete last paragraph.
+    - 3.3 move to MVP. Explain what will happen with Github URL and what will be inside of it. Source code artifacts, meeting notes, issues will include work log, etc.
+        - The data is provided over google drive, we will use Google products to access data and generate presentations.
+    - Provide a spot in the SOW saying we will research legal considerations for web scraping. List under stretch goals.
+    - Combine stretch and post-mvp together and call them stretch goals.
+    - Make web scraping its own mini-section separate from other Stretch goals and mention who is working on it, etc.
+        - TJ will do it and Kieran will assist.
+    - Phase 4: remove “well commented code” bullet point. It should just be assumed. Document code as you go.
+    - In general, concise is better, no need to be overly wordy.
+    - 4.1 Delete the first line and keep bullet points.
+    - Put the bullet points for each phase right above the paragraph for each phase.
+    - Give a name to each of the phases.
+    - Update phases based on addition of the web-scraping task. 
+- Weekly Log:
+    - No need to itemize different meetings. Just say meetings in general.
+- Remote desktop link for our project can be found in Slack on the Avvo channel. Dr. Park sent it.
+- You can only download data on the remote desktop. DO NOT download data on your personal computer.
+- Submit SOW to Dr. Park and Jason ideally by Tuesday. Wednesday afternoon at the latest.
+- Start working:
+    - Midterm presentation, aim to finish 50% by next team meeting. 
+        - Initial client overview.
+        - Prototype example lawyers.
+        - Legal issues with web scraping. (TJ)
+        - History of what students have done in the past. Ask Jason about this during our client meeting on Thursday.
+    - Scraping. (TJ)
