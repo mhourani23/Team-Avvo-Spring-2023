@@ -14,4 +14,6 @@ https://lawyers.findlaw.com/lawyer/firm/banking-finance-law/marin-county/califor
 ```
 
 Future:  
-Some way to extract states/territories of the USA. Could scrape from website but in weird format.  
+Some way to extract states/territories of the USA. Could scrape from website but in weird format.   
+
+## When trying to do all issues for all counties in California the code failed. Does the execution need to be broken up even more?
