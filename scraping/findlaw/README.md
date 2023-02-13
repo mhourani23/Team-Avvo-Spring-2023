@@ -4,6 +4,8 @@ Current scraper gets all lawyers (given state) and returns a df that has columns
 If this is done for a large state (like California) the df is around 1500 rows.  
 Not sure what the pandas limit is for rows in a df.
 
+### **All of the supporting python files are in the ```"old"``` folder.**
+
 ## Website Order: State -> County -> Issue  
 ### Using county level the link order is 
 ```
