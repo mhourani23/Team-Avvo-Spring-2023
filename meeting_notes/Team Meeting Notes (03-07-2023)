@@ -1,0 +1,19 @@
+(03-07-2023)
+
+- Way to tackle the different tiers problem (where client’s goal is to figure out which ones lawyers should step 
+  up a tier or go down a tier):
+    - Classification problem, predict their tier of the lawyer.
+    - Input is the features we know about customers, such as AOP, etc.
+    - The machine learning model will predict the appropriate tier based on input information about the client.
+        - Example, if the model is predicting a higher tier than a customer is currently at, then competitors are outspending 
+          them on a package, so the client should focus on this customer and convince them to go up a tier.
+- Each row is a customer for only 1 month.
+- Not just give them the model for which clients should go up or down, but also give them the reason why based on 
+  the input variables that are having the biggest effect on outcome.
+- There could be a case where Avvo recommends a client to go down a tier, even though they would pay less, this would mean 
+  that they would remain a client with Avvo for longer which would mean they would make more money off that specific client.
+- Steps for next week:
+    - Ensure you have access to the remote desktop.
+    - Create a summary dataset where each row is a customer. Add columns that track their progression of tiers over time, 
+      either by month or by year.
+    - Have the model set up.
